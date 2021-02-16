@@ -1,6 +1,5 @@
 const inputText = document.getElementById('input');
 const submitBtn = document.getElementById('submit');
-
 const inputResult = () => {
   inputValue(inputText.value);
   inputText.value = '';
